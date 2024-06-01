@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juniperajones
 - 👀 I’m interested in TTRPGs, writing fantasy, permaculture, and game design.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Twine.
 - 💞️ I’m looking to collaborate on writing fantasy.
 - 📫 It's easiest to reach me via Discord: @JuniperJones#1513
 
